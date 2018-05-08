@@ -7,3 +7,6 @@ c:\users\administrator\documents\visual studio 2012\Projects\task\task\obj\Debug
 c:\users\administrator\documents\visual studio 2012\Projects\task\task\obj\Debug\task.csproj.GenerateResource.Cache
 c:\users\administrator\documents\visual studio 2012\Projects\task\task\obj\Debug\task.exe
 c:\users\administrator\documents\visual studio 2012\Projects\task\task\obj\Debug\task.pdb
+C:\Users\Administrator\Desktop\test\task\task\bin\Debug\task.exe.config
+C:\Users\Administrator\Desktop\test\task\task\obj\Debug\task.exe
+C:\Users\Administrator\Desktop\test\task\task\obj\Debug\task.pdb
