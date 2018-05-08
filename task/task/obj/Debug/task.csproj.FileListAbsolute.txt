@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2012\Projects\task\task\bin\Debug\task.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\task\task\bin\Debug\task.exe
+c:\users\administrator\documents\visual studio 2012\Projects\task\task\bin\Debug\task.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\task\task\obj\Debug\task.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\task\task\obj\Debug\task.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\task\task\obj\Debug\task.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\task\task\obj\Debug\task.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\task\task\obj\Debug\task.exe
+c:\users\administrator\documents\visual studio 2012\Projects\task\task\obj\Debug\task.pdb
