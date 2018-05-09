@@ -10,6 +10,7 @@ namespace task
     {
         public static List<Class1> des = new List<Class1>();
         public static List<Class1> des1 = new List<Class1>();
+        public static List<Mycheckclass> check = new List<Mycheckclass>();
         public void Addlist_item(Class1 c1)
         {
 
@@ -19,6 +20,11 @@ namespace task
         {
 
             des1.Add(c1);
+        }
+        public void Addlist_itemj(Mycheckclass c1)
+        {
+
+            check.Add(c1);
         }
     }
 }

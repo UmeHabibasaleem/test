@@ -25,5 +25,15 @@ namespace task
                 textBox2.Text = c1.Description;
             }
         }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked == true)
+            {
+                Form1 form = new Form1();
+                this.Hide();
+                form.Show();
+            }
+        }
     }
 }
